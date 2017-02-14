@@ -1,0 +1,19 @@
+var attack = prompt("You see a Nindroid Drone: attack?");
+var kick = Math.random();
+if (attack = "y","yes") {
+    var fight = function(attack) {
+    if (kick > 0.5) {
+        console.log("You have defeated the Nindroid Drone.");
+    }
+    else {
+        prompt("The Drone is still standing. Attack?");
+        {if (kick > 0.5) {
+            console.log("You have defeated the Nindroid Drone.");}
+            else {
+                console.log("Run!");
+        
+                 }
+                        }
+        }
+    }
+}
